@@ -1,3 +1,1 @@
-- Hello i am coastalcookie
-- My plan is to start learning how to code and stuffs so here i am eventually i will figure it out eventually
-- so yhea that is that
+- Hello! Currently not doing much except bug reporting for TGMC whenever i have the time to do so!
